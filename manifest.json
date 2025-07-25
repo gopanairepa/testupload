@@ -1,18 +1,17 @@
 {
   "version": 1,
   "locale": "en_US",
-  "platform": "R-4.3",
+  "platform": "4.4.0",
   "metadata": {
     "appmode": "shiny",
-    "primary_rmd": null
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
   },
-  "packages": [
-    {
-      "name": "shiny",
-      "version": "1.8.1"
-    }
-  ],
-  "files": [
+
+  "files": {
     "app.R"
-  ]
+  },
+  "users": null
 }
