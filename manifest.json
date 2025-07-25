@@ -10,6 +10,7 @@
     "has_parameters": false
   },
 
+  {
   "files": {
     "app.R"
   },
