@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "R-4.3",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null
+  },
+  "packages": [
+    {
+      "name": "shiny",
+      "version": "1.8.1"
+    }
+  ],
+  "files": [
+    "app.R"
+  ]
+}
