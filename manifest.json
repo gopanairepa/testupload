@@ -1,18 +1,18 @@
 {
-  "version": 1,
-  "locale": "en_US",
-  "platform": "4.4.0",
-  "metadata": {
-    "appmode": "shiny",
-    "primary_rmd": null,
-    "primary_html": null,
-    "content_category": null,
-    "has_parameters": false
-  },
-
-  {
-  "files": {
-    "app.R"
-  },
-  "users": null
+    "version": 1,
+    "locale": "en_US",
+    "platform": "4.4.0",
+    "metadata": {
+        "appmode": "shiny",
+        "primary_rmd": null,
+        "primary_html": null,
+        "content_category": null,
+        "has_parameters": false
+    },
+    "files": {
+        "app.R": {
+            "checksum": "e811671c35072938c0f252b6db95b6e8"
+        }
+    },
+    "users": null
 }
